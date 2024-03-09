@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30" started-at="2024-03-09T12:14:28Z" finished-at="2024-03-09T12:14:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30" started-at="2024-03-09T12:14:28Z" finished-at="2024-03-09T12:14:28Z">
+      <class name="org.tryy.TryClass">
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.tryy.TryClass@475530b9]" name="test1" duration-ms="11" started-at="2024-03-09T17:44:28Z" finished-at="2024-03-09T17:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- org.tryy.TryClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
